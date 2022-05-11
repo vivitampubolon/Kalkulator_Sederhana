@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="kalkulator_sederhana">Kalkulator Sederhana</string>
+    <string name="bilangan_pertama">Bilangan Pertama</string>
+    <string name="bilangan_kedua">Bilangan Kedua</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">x</string>
+    <string name="bagi">:</string>
+    <string name="hasil_kalkulator_sederhana">Hasil Kalkulator Sederhana</string>
+</resources>
